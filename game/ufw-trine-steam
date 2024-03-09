@@ -1,0 +1,4 @@
+[Trine - Steam]
+title=Trine: Enchanted Edition - Steam
+description=Trine Steam game client
+ports=27015:27030,27036:27037/tcp|4380,27000:27031,27036,27300:27315/udp

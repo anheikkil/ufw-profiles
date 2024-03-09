@@ -1,0 +1,4 @@
+[Titan Quest - Steam]
+title=Titan Quest - Steam
+description=Titan Quest Steam game client
+ports=27015,27036/tcp|27015,27031:27036,42800:42801,49152:49172,49272:49292/udp

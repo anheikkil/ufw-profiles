@@ -1,0 +1,4 @@
+[Heroes of Hammerwatch]
+title=Heroes of Hammerwatch
+description=Heroes of Hammerwatch game client
+ports=9995/tcp|9995/udp

@@ -1,0 +1,4 @@
+[Neverwinter Nights - Enhanced Edition - Steam]
+title=Neverwinter Nights: Enhanced Edition - Steam
+description=Neverwinter Nights: Enhanced Edition Steam game client
+ports=27015:27030,27036:27037/tcp|4380,5121,27000:27031,27036/udp

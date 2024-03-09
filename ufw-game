@@ -1,0 +1,185 @@
+[Diablo]
+title=Diablo
+description=Diablo game client
+ports=6112:6119/tcp|6112:6119/udp
+
+[Diablo II]
+title=Diablo II
+description=Diablo II game client
+ports=4000,6112/tcp
+
+[Factorio]
+title=Factorio
+description=Factorio game client
+ports=34197/udp
+
+[Factorio - Steam]
+title=Factorio - Steam
+description=Factorio Steam game client
+ports=27015:27030,27036:27037/tcp|4380,27000:27031,27036,34197/udp
+
+[Grim Dawn]
+title=Grim Dawn
+description=Grim Dawn game client
+ports=27016,42805,42852:42872/tcp|27016,42805,42852:42872/udp
+
+[Grim Dawn - Steam]
+title=Grim Dawn - Steam
+description=Grim Dawn Steam game client
+ports=27015:27016,27036,42805,42852:42872/tcp|27015:27016,27031:27036,42805,42852:42872/udp
+
+[Hammerwatch]
+title=Hammerwatch
+description=Hammerwatch game client
+ports=9995
+
+[Hammerwatch - Steam]
+title=Hammerwatch - Steam
+description=Hammerwatch Steam game client
+ports=9995,27015,27036/tcp|9995,27015,27031:27036/udp
+
+[Heroes of Hammerwatch]
+title=Heroes of Hammerwatch
+description=Heroes of Hammerwatch game client
+ports=9995/tcp|9995/udp
+
+[Heroes of Hammerwatch - Steam]
+title=Heroes of Hammerwatch - Steam
+description=Heroes of Hammerwatch Steam game client
+ports=9995,27015,27036/tcp|9995,27015,27031:27036/udp
+
+[Heroes of Might and Magic 3]
+title=Heroes of Might and Magic 3
+description=Heroes of Might and Magic III game client
+ports=47624,2300:2400/tcp|47624,2300:2400/udp
+
+[Minecraft]
+title=Minecraft
+description=Minecraft: Java Edition game client
+ports=25565/tcp|19132:19133,25565/udp
+
+[Neverwinter Nights]
+title=Neverwinter Nights
+description=Neverwinter Nights game client
+ports=5120:5300,6500,6667,27900,28900/udp
+
+[Neverwinter Nights - Enhanced Edition]
+title=Neverwinter Nights: Enhanced Edition
+description=Neverwinter Nights: Enhanced Edition game client
+ports=5112/udp
+
+[Neverwinter Nights - Enhanced Edition - Steam]
+title=Neverwinter Nights: Enhanced Edition - Steam
+description=Neverwinter Nights: Enhanced Edition Steam game client
+ports=27015:27030,27036:27037/tcp|4380,5121,27000:27031,27036/udp
+
+[Neverwinter Nights 2]
+title=Neverwinter Nights 2
+description=Neverwinter Nights 2 game client
+ports=5120:5300/udp
+
+[Starbound]
+title=Starbound
+description=Starbound game client
+ports=21025:21026/tcp
+
+[Starbound - Steam]
+title=Starbound - Steam
+description=Starbound Steam game client
+ports=21025:21026,27015,27036/tcp|27015,27031:27036/udp
+
+[Terraria]
+title=Terraria
+description=Terraria game client
+ports=7777/tcp
+
+[Terraria - Steam]
+title=Terraria - Steam
+description=Terraria Steam game client
+ports=7777,27015,27036/tcp|27015,27031:27036/udp
+
+[Titan Quest]
+title=Titan Quest
+description=Titan Quest game client
+ports=42800:42801,49152:49172,49272:49292/udp
+
+[Titan Quest - Steam]
+title=Titan Quest - Steam
+description=Titan Quest Steam game client
+ports=27015,27036/tcp|27015,27031:27036,42800:42801,49152:49172,49272:49292/udp
+
+[Trine]
+title=Trine: Enchanted Edition
+description=Trine game client
+ports=27300:27315/udp
+
+[Trine - Steam]
+title=Trine: Enchanted Edition - Steam
+description=Trine Steam game client
+ports=27015:27030,27036:27037/tcp|4380,27000:27031,27036,27300:27315/udp
+
+[Trine 2]
+title=Trine 2
+description=Trine 2 game client
+ports=27300:27315/udp
+
+[Trine 2 - Steam]
+title=Trine 2 - Steam
+description=Trine 2 Steam game client
+ports=27015:27030,27036:27037/tcp|4380,27000:27031,27036,27300:27315/udp
+
+[Trine 3]
+title=Trine 3: The Artifacts of Power
+description=Trine 3 game client
+ports=27300:27315/udp
+
+[Trine 3 - Steam]
+title=Trine 3: The Artifacts of Power - Steam
+description=Trine 3 Steam game client
+ports=27015:27030,27036:27037/tcp|4380,27000:27031,27036,27300:27315/udp
+
+[Trine 4]
+title=Trine 4
+description=Trine 4 game client
+ports=27300:27315/udp
+
+[Trine 4 - Steam]
+title=Trine 4: The Nightmare Prince - Steam
+description=Trine 4 Steam game client
+ports=27015:27030,27036:27037/tcp|4380,27000:27031,27036,27300:27315/udp
+
+[Trine 5 - Steam]
+title=Trine 5: A Clockwork Conspiracy - Steam
+description=Trine 5 Steam game client
+ports=27015,27036/tcp|27015,27031:27036/udp
+
+[Torchlight - Steam]
+title=Torchlight - Steam
+description=Torchlight Steam game client
+ports=27015,27036/tcp|27015,27031:27036/udp
+
+[Torchlight 2]
+title=Torchlight 2
+description=Torchlight 2 game client
+ports=4549/tcp|4171,4175,4179/udp
+
+[Torchlight 2 - Steam]
+title=Torchlight 2 - Steam
+description=Torchlight 2 Steam game client
+ports=4549,27015:27030,27036:27037/tcp|4171,4175,4179,4380,27000:27031,27036/udp
+
+[Valheim - Steam]
+title=Valheim - Steam
+description=Valheim Steam game client
+ports=27015,27036/tcp|2456:2457,27015,27031:27036/udp
+
+[Vintage Story]
+title=Factorio
+description=Vintage Story game client
+ports=42420/tcp
+
+[XCOM - Enemy Unknown]
+title=XCOM: Enemy Unknown
+description=XCOM: Enemy Unknown game client
+ports=27014:27050/tcp|3478,4379:4380,27000:27031,27036/udp
+

@@ -1,0 +1,4 @@
+[Diablo II]
+title=Diablo II
+description=Diablo II game client
+ports=4000,6112/tcp

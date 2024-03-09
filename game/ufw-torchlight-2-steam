@@ -1,0 +1,4 @@
+[Torchlight 2 - Steam]
+title=Torchlight 2 - Steam
+description=Torchlight 2 Steam game client
+ports=4549,27015:27030,27036:27037/tcp|4171,4175,4179,4380,27000:27031,27036/udp

@@ -1,0 +1,4 @@
+[Vintage Story]
+title=Factorio
+description=Vintage Story game client
+ports=42420/tcp

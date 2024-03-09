@@ -1,0 +1,4 @@
+[Valheim - Steam]
+title=Valheim - Steam
+description=Valheim Steam game client
+ports=27015,27036/tcp|2456:2457,27015,27031:27036/udp

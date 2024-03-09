@@ -1,0 +1,4 @@
+[Terraria - Steam]
+title=Terraria - Steam
+description=Terraria Steam game client
+ports=7777,27015,27036/tcp|27015,27031:27036/udp

@@ -1,0 +1,4 @@
+[Minecraft]
+title=Minecraft
+description=Minecraft: Java Edition game client
+ports=25565/tcp|19132:19133,25565/udp

@@ -1,0 +1,4 @@
+[Trine]
+title=Trine: Enchanted Edition
+description=Trine game client
+ports=27300:27315/udp

@@ -1,0 +1,4 @@
+[Heroes of Might and Magic 3]
+title=Heroes of Might and Magic 3
+description=Heroes of Might and Magic III game client
+ports=47624,2300:2400/tcp|47624,2300:2400/udp

@@ -1,0 +1,4 @@
+[Grim Dawn - Steam]
+title=Grim Dawn - Steam
+description=Grim Dawn Steam game client
+ports=27015:27016,27036,42805,42852:42872/tcp|27015:27016,27031:27036,42805,42852:42872/udp

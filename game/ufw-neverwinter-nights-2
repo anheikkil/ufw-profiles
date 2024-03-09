@@ -1,0 +1,4 @@
+[Neverwinter Nights 2]
+title=Neverwinter Nights 2
+description=Neverwinter Nights 2 game client
+ports=5120:5300/udp

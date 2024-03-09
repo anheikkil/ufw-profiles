@@ -1,0 +1,4 @@
+[Grim Dawn]
+title=Grim Dawn
+description=Grim Dawn game client
+ports=27016,42805,42852:42872/tcp|27016,42805,42852:42872/udp

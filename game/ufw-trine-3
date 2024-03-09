@@ -1,0 +1,4 @@
+[Trine 3]
+title=Trine 3: The Artifacts of Power
+description=Trine 3 game client
+ports=27300:27315/udp

@@ -1,0 +1,4 @@
+[Titan Quest]
+title=Titan Quest
+description=Titan Quest game client
+ports=42800:42801,49152:49172,49272:49292/udp

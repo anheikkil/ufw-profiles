@@ -1,0 +1,4 @@
+[Trine 5 - Steam]
+title=Trine 5: A Clockwork Conspiracy - Steam
+description=Trine 5 Steam game client
+ports=27015,27036/tcp|27015,27031:27036/udp

@@ -1,0 +1,4 @@
+[Factorio]
+title=Factorio
+description=Factorio game client
+ports=34197/udp

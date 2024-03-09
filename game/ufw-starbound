@@ -1,0 +1,4 @@
+[Starbound]
+title=Starbound
+description=Starbound game client
+ports=21025:21026/tcp

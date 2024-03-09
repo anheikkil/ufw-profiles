@@ -1,0 +1,4 @@
+[XCOM - Enemy Unknown]
+title=XCOM: Enemy Unknown
+description=XCOM: Enemy Unknown game client
+ports=27014:27050/tcp|3478,4379:4380,27000:27031,27036/udp

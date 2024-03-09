@@ -1,0 +1,4 @@
+[Diablo]
+title=Diablo
+description=Diablo game client
+ports=6112:6119/tcp|6112:6119/udp

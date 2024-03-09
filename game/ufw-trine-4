@@ -1,0 +1,4 @@
+[Trine 4]
+title=Trine 4
+description=Trine 4 game client
+ports=27300:27315/udp

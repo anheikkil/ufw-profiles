@@ -1,0 +1,4 @@
+[Terraria]
+title=Terraria
+description=Terraria game client
+ports=7777/tcp

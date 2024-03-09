@@ -1,0 +1,4 @@
+[Torchlight 2]
+title=Torchlight 2
+description=Torchlight 2 game client
+ports=4549/tcp|4171,4175,4179/udp

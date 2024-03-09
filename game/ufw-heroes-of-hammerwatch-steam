@@ -1,0 +1,4 @@
+[Heroes of Hammerwatch - Steam]
+title=Heroes of Hammerwatch - Steam
+description=Heroes of Hammerwatch Steam game client
+ports=9995,27015,27036/tcp|9995,27015,27031:27036/udp

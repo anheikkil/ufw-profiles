@@ -1,0 +1,5 @@
+[Terraria Server]
+title=Terraria Server
+description=Terraria dedicated server
+ports=7777/tcp
+

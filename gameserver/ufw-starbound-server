@@ -1,0 +1,5 @@
+[Starbound Server]
+title=Starbound Server
+description=Starbound server
+ports=21025:21026/tcp
+

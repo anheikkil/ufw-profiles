@@ -1,0 +1,5 @@
+[Valheim Server]
+title=Valheim Server
+description=Valheim server
+ports=2456:2457/udp
+

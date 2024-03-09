@@ -1,0 +1,5 @@
+[Minecraft Server]
+title=Minecraft Server
+description=Minecraft: Java Edition dedicated server
+ports=25565
+

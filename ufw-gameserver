@@ -1,0 +1,30 @@
+[Factorio Server]
+title=Factorio Server
+description=Factorio dedicated server
+ports=34197/udp
+
+[Minecraft Server]
+title=Minecraft Server
+description=Minecraft: Java Edition dedicated server
+ports=25565
+
+[Starbound Server]
+title=Starbound Server
+description=Starbound server
+ports=21025:21026/tcp
+
+[Terraria Server]
+title=Terraria Server
+description=Terraria dedicated server
+ports=7777/tcp
+
+[Valheim Server]
+title=Valheim Server
+description=Valheim server
+ports=2456:2457/udp
+
+[Vintage Story Server]
+title=Vintage Story Server
+description=Vintage Story dedicated server
+ports=42420/tcp
+

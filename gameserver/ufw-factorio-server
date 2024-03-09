@@ -1,0 +1,5 @@
+[Factorio Server]
+title=Factorio Server
+description=Factorio dedicated server
+ports=34197/udp
+

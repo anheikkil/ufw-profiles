@@ -1,0 +1,5 @@
+[Vintage Story Server]
+title=Vintage Story Server
+description=Vintage Story dedicated server
+ports=42420/tcp
+
